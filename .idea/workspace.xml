@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35bd270d-07da-49c5-b39c-495f9b6749ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1yOKej50hNP4bRW9q4dvXwFTcTW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build orb-proto (1)">
+    <configuration name="go build orb-proto (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="orb-proto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build orb-proto" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="orb-proto" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build orb-proto (1)" />
+        <item itemvalue="Go Build.go build orb-proto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#GOROOT" timestamp="1632117346148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#GOROOT/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1632117346148" />
+    <state x="689" y="139" key="#go_build_orb-proto" timestamp="1632117330509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="139" key="#go_build_orb-proto/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1632117330509" />
+    <state x="689" y="139" key="#go_build_orb-proto_(1)" timestamp="1632117365756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="139" key="#go_build_orb-proto_(1)/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1632117365756" />
+  </component>
+</project>
